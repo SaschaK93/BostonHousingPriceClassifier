@@ -1,3 +1,4 @@
+![App Screenshot](screenshot.png)
 # 🏠 Housing Price Classifier  
 住宅価格分類アプリ  
 
